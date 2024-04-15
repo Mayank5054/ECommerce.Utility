@@ -12,3 +12,4 @@ C:\Users\sit433\dotnet\ECommerce.Utility\obj\Debug\net8.0\refint\ECommerce.Utili
 C:\Users\sit433\dotnet\ECommerce.Utility\obj\Debug\net8.0\ECommerce.Utility.pdb
 C:\Users\sit433\dotnet\ECommerce.Utility\obj\Debug\net8.0\ECommerce.Utility.genruntimeconfig.cache
 C:\Users\sit433\dotnet\ECommerce.Utility\obj\Debug\net8.0\ref\ECommerce.Utility.dll
+C:\Users\sit433\dotnet\ECommerce.Utility\obj\Debug\net8.0\ECommerce.Utility.sourcelink.json
